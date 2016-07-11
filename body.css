@@ -1,0 +1,29 @@
+GtkWindow {
+    background-color: #E8E8E8;
+}
+
+GtkButton {
+    color: #484848 ;
+    background: #E8E8E8;
+    border-style: solid;
+}
+
+GtkLabel {
+    background-color: rgb(232,232,232);
+    box-shadow:10px 10px 30px 20px rgb(232,232,232) inset;;	
+}
+
+/***************************
+****************************
+GtkNotebook {
+background-color: #E8E8E8;
+}
+****************************
+***************************/
+GtkNotebook {
+background-color: #E8E8E8;
+}
+
+GtkTextview{
+	background-color: #E8E8E8;
+}
